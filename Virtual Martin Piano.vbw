@@ -1,0 +1,9 @@
+frmPrograma = 234, 234, 931, 868, Z, 0, 0, 504, 473, C
+ChameleonBtn = 0, 0, 0, 0, C, 78, 78, 775, 712, C
+funciones = 0, 0, 0, 0, C
+frmOpciones = 0, 0, 0, 0, C, 0, 473, 504, 946, C
+frmAcercade = 104, 104, 801, 738, C, 504, 630, 1008, 945, C
+archivoF = 0, 0, 0, 0, C
+escripta = 0, 0, 0, 0, C
+frmDonativos = 0, 0, 0, 0, C, 504, 315, 1008, 630, C
+frmMensaje = 130, 130, 920, 703, C, 504, 0, 1008, 315, C
